@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"VivaSlim™ (Official) | Get $348 Off Today Only!",
+  "short_name":"VivaSlim™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"VivaSlim™ is the most powerful weight-loss formula.Is made from 12 of Earth's highest-quality plant extracts and vitamins.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
